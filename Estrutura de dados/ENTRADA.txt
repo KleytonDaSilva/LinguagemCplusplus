@@ -1,0 +1,15 @@
+para os voos 
+
+421    CWB    SP   120
+175    POA    CWB   80
+553    RJ     SP    2
+307    BH     FLN   110
+
+para os clientes
+
++ JOAO DA SILVA   RJ    SP
+- LUIS VIEIRA     BH    FLN
++ JOSE SANTOS     POA   SP
++ ANA SILVEIRA    RJ    SP
++ PEDRO SOARES    RJ    SP
+- MARIA SOUZARJ   FLN   CWB
