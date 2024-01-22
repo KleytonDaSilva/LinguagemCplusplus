@@ -23,8 +23,8 @@ int main() {
     }else{
         if( b > c){
             max = b;
-            med = c;
-            men = a;
+            med = a;
+            men = c;
         }else{
             max = c;
             med = a;
